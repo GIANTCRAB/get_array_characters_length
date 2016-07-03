@@ -1,0 +1,19 @@
+{
+  "name": "get_array_characters_length",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GIANTCRAB/get_array_characters_length.git"
+  },
+  "author": "GIANTCRAB",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/GIANTCRAB/get_array_characters_length/issues"
+  },
+  "homepage": "https://github.com/GIANTCRAB/get_array_characters_length#readme"
+}
