@@ -1,10 +1,10 @@
 {
   "name": "get_array_characters_length",
   "version": "1.0.0",
-  "description": "",
+  "description": "``` get_array_characters_length = require('get_array_characters_length');",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/GIANTCRAB/get_array_characters_length/issues"
   },
-  "homepage": "https://github.com/GIANTCRAB/get_array_characters_length#readme"
+  "homepage": "https://github.com/GIANTCRAB/get_array_characters_length#readme",
+  "keywords": [
+    "array",
+    "characters",
+    "length"
+  ],
+  "devDependencies": {
+    "jest": "^17.0.3"
+  }
 }
