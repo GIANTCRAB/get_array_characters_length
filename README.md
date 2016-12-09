@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/GIANTCRAB/get_array_characters_length.svg?branch=master)](https://travis-ci.org/GIANTCRAB/get_array_characters_length)
 # get_array_characters_length
-A function to help you get the accurate amount of characters in multi-dimensional arrays.
+A function to help you get the accurate amount of characters in multi-dimensional arrays and objects.
 
 ### Usage
 ```
